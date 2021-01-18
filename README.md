@@ -2,7 +2,8 @@
 Uses Socket.io to push Kafka messages to clients. Based on the [socket.io chat demo](http://socket.io/get-started/chat/).
 
 ## Requirements
-- Kafka. The [Apache Kafka Quick Start](http://socket.io/get-started/chat/) provides instructions on setting up a simple ZooKeeper server and Kafka broker.
+- Kafka. The [Apache Kafka Quick Start](https://kafka.apache.org/quickstart) provides instructions on setting up a simple ZooKeeper server and Kafka broker.
+- Socket.io. The [Socket.io Get Started Chat App](http://socket.io/get-started/chat/) describes a simple chat app demo using socket.io.
 - [Node](http://nodejs.org) and npm
 
 ## Running
